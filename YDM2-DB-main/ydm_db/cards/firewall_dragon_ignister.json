@@ -1,0 +1,22 @@
+{
+  "id": ,
+  "name": "Firewall Dragon @Ignister",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": \"The Arrival Cyberse @Ignister"\+\"Firewall Dragon Darkfluid"\nWhile you have a \"Firewall"\ Link or Xyz monster and a \"@Ignister"\ link, fusion, Synchro,
+or Xyz monster in your GY this card cannot be targeted by card effect. Once per turn your can target a monster this card points to that has a lower link than this card banish that card until the end phase. If you have \"The Arrival Cyberse @Ignister"\ and \"Firewall Dragon Darkfluid"\ in your GY this card gains 5000 ATK",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 5000,
+  "species": "Cyberse",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 5000,
+  "level": 12,
+  "is_tuner": false 
+}
